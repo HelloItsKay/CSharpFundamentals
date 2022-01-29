@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.exe
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.deps.json
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.runtimeconfig.json
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.runtimeconfig.dev.json
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.dll
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.pdb
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.AssemblyInfo.cs
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.dll
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.pdb
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.genruntimeconfig.cache

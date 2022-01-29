@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\01. Train\Arrays - Exercise\bin\Debug\netcoreapp3.1\01. Train.exe
+C:\Users\krust\source\repos\01. Train\Arrays - Exercise\bin\Debug\netcoreapp3.1\01. Train.deps.json
+C:\Users\krust\source\repos\01. Train\Arrays - Exercise\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.json
+C:\Users\krust\source\repos\01. Train\Arrays - Exercise\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.dev.json
+C:\Users\krust\source\repos\01. Train\Arrays - Exercise\bin\Debug\netcoreapp3.1\01. Train.dll
+C:\Users\krust\source\repos\01. Train\Arrays - Exercise\bin\Debug\netcoreapp3.1\01. Train.pdb
+C:\Users\krust\source\repos\01. Train\Arrays - Exercise\obj\Debug\netcoreapp3.1\01. Train.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\01. Train\Arrays - Exercise\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\01. Train\Arrays - Exercise\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfo.cs
+C:\Users\krust\source\repos\01. Train\Arrays - Exercise\obj\Debug\netcoreapp3.1\01. Train.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\01. Train\Arrays - Exercise\obj\Debug\netcoreapp3.1\01. Train.dll
+C:\Users\krust\source\repos\01. Train\Arrays - Exercise\obj\Debug\netcoreapp3.1\01. Train.pdb
+C:\Users\krust\source\repos\01. Train\Arrays - Exercise\obj\Debug\netcoreapp3.1\01. Train.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\07.Associative Arrays -Lab\bin\Debug\netcoreapp3.1\1. Count Real Numbers.exe
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\07.Associative Arrays -Lab\bin\Debug\netcoreapp3.1\1. Count Real Numbers.deps.json
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\07.Associative Arrays -Lab\bin\Debug\netcoreapp3.1\1. Count Real Numbers.runtimeconfig.json
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\07.Associative Arrays -Lab\bin\Debug\netcoreapp3.1\1. Count Real Numbers.runtimeconfig.dev.json
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\07.Associative Arrays -Lab\bin\Debug\netcoreapp3.1\1. Count Real Numbers.dll
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\07.Associative Arrays -Lab\bin\Debug\netcoreapp3.1\1. Count Real Numbers.pdb
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\07.Associative Arrays -Lab\obj\Debug\netcoreapp3.1\1. Count Real Numbers.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\07.Associative Arrays -Lab\obj\Debug\netcoreapp3.1\1. Count Real Numbers.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\07.Associative Arrays -Lab\obj\Debug\netcoreapp3.1\1. Count Real Numbers.AssemblyInfo.cs
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\07.Associative Arrays -Lab\obj\Debug\netcoreapp3.1\1. Count Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\07.Associative Arrays -Lab\obj\Debug\netcoreapp3.1\1. Count Real Numbers.dll
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\07.Associative Arrays -Lab\obj\Debug\netcoreapp3.1\1. Count Real Numbers.pdb
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\07.Associative Arrays -Lab\obj\Debug\netcoreapp3.1\1. Count Real Numbers.genruntimeconfig.cache

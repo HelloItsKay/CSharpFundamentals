@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\1. Count Chars in a String\07. Student Academy\bin\Debug\netcoreapp3.1\7. Student Academy.exe
+C:\Users\krust\source\repos\1. Count Chars in a String\07. Student Academy\bin\Debug\netcoreapp3.1\7. Student Academy.deps.json
+C:\Users\krust\source\repos\1. Count Chars in a String\07. Student Academy\bin\Debug\netcoreapp3.1\7. Student Academy.runtimeconfig.json
+C:\Users\krust\source\repos\1. Count Chars in a String\07. Student Academy\bin\Debug\netcoreapp3.1\7. Student Academy.runtimeconfig.dev.json
+C:\Users\krust\source\repos\1. Count Chars in a String\07. Student Academy\bin\Debug\netcoreapp3.1\7. Student Academy.dll
+C:\Users\krust\source\repos\1. Count Chars in a String\07. Student Academy\bin\Debug\netcoreapp3.1\7. Student Academy.pdb
+C:\Users\krust\source\repos\1. Count Chars in a String\07. Student Academy\obj\Debug\netcoreapp3.1\7. Student Academy.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\1. Count Chars in a String\07. Student Academy\obj\Debug\netcoreapp3.1\7. Student Academy.AssemblyInfo.cs
+C:\Users\krust\source\repos\1. Count Chars in a String\07. Student Academy\obj\Debug\netcoreapp3.1\7. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\1. Count Chars in a String\07. Student Academy\obj\Debug\netcoreapp3.1\7. Student Academy.dll
+C:\Users\krust\source\repos\1. Count Chars in a String\07. Student Academy\obj\Debug\netcoreapp3.1\7. Student Academy.pdb
+C:\Users\krust\source\repos\1. Count Chars in a String\07. Student Academy\obj\Debug\netcoreapp3.1\7. Student Academy.genruntimeconfig.cache

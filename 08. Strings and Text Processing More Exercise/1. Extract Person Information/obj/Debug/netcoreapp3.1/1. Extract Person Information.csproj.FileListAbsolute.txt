@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.exe
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.deps.json
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.runtimeconfig.json
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.runtimeconfig.dev.json
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.dll
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.pdb
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.AssemblyInfo.cs
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.dll
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.pdb
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.genruntimeconfig.cache

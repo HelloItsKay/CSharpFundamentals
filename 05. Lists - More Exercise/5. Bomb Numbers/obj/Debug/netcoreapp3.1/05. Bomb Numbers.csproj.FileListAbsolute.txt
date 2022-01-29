@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\05. Lists - More Exercise\5. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.exe
+C:\Users\krust\source\repos\05. Lists - More Exercise\5. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.deps.json
+C:\Users\krust\source\repos\05. Lists - More Exercise\5. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.json
+C:\Users\krust\source\repos\05. Lists - More Exercise\5. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.dev.json
+C:\Users\krust\source\repos\05. Lists - More Exercise\5. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+C:\Users\krust\source\repos\05. Lists - More Exercise\5. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.pdb
+C:\Users\krust\source\repos\05. Lists - More Exercise\5. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\05. Lists - More Exercise\5. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\05. Lists - More Exercise\5. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfo.cs
+C:\Users\krust\source\repos\05. Lists - More Exercise\5. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\05. Lists - More Exercise\5. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+C:\Users\krust\source\repos\05. Lists - More Exercise\5. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.pdb
+C:\Users\krust\source\repos\05. Lists - More Exercise\5. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\04. Methods - Exercise\15.04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\15.04. Tribonacci Sequence.exe
+C:\Users\krust\source\repos\04. Methods - Exercise\15.04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\15.04. Tribonacci Sequence.deps.json
+C:\Users\krust\source\repos\04. Methods - Exercise\15.04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\15.04. Tribonacci Sequence.runtimeconfig.json
+C:\Users\krust\source\repos\04. Methods - Exercise\15.04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\15.04. Tribonacci Sequence.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04. Methods - Exercise\15.04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\15.04. Tribonacci Sequence.dll
+C:\Users\krust\source\repos\04. Methods - Exercise\15.04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\15.04. Tribonacci Sequence.pdb
+C:\Users\krust\source\repos\04. Methods - Exercise\15.04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\15.04. Tribonacci Sequence.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04. Methods - Exercise\15.04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\15.04. Tribonacci Sequence.AssemblyInfo.cs
+C:\Users\krust\source\repos\04. Methods - Exercise\15.04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\15.04. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04. Methods - Exercise\15.04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\15.04. Tribonacci Sequence.dll
+C:\Users\krust\source\repos\04. Methods - Exercise\15.04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\15.04. Tribonacci Sequence.pdb
+C:\Users\krust\source\repos\04. Methods - Exercise\15.04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\15.04. Tribonacci Sequence.genruntimeconfig.cache
+C:\Users\krust\source\repos\04. Methods - Exercise\15.04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\15.04. Tribonacci Sequence.csprojAssemblyReference.cache

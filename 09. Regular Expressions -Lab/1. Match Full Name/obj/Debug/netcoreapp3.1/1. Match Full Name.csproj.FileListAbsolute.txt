@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\09. Regular Expressions -Lab\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.exe
+C:\Users\krust\source\repos\09. Regular Expressions -Lab\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.deps.json
+C:\Users\krust\source\repos\09. Regular Expressions -Lab\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.runtimeconfig.json
+C:\Users\krust\source\repos\09. Regular Expressions -Lab\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.runtimeconfig.dev.json
+C:\Users\krust\source\repos\09. Regular Expressions -Lab\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.dll
+C:\Users\krust\source\repos\09. Regular Expressions -Lab\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.pdb
+C:\Users\krust\source\repos\09. Regular Expressions -Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\09. Regular Expressions -Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\09. Regular Expressions -Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.AssemblyInfo.cs
+C:\Users\krust\source\repos\09. Regular Expressions -Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\09. Regular Expressions -Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.dll
+C:\Users\krust\source\repos\09. Regular Expressions -Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.pdb
+C:\Users\krust\source\repos\09. Regular Expressions -Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.genruntimeconfig.cache

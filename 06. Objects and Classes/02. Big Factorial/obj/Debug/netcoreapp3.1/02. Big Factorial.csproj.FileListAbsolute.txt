@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\06. Objects and Classes - Exercise\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.exe
+C:\Users\krust\source\repos\06. Objects and Classes - Exercise\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.deps.json
+C:\Users\krust\source\repos\06. Objects and Classes - Exercise\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.json
+C:\Users\krust\source\repos\06. Objects and Classes - Exercise\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.dev.json
+C:\Users\krust\source\repos\06. Objects and Classes - Exercise\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.dll
+C:\Users\krust\source\repos\06. Objects and Classes - Exercise\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.pdb
+C:\Users\krust\source\repos\06. Objects and Classes - Exercise\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\06. Objects and Classes - Exercise\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\06. Objects and Classes - Exercise\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfo.cs
+C:\Users\krust\source\repos\06. Objects and Classes - Exercise\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\06. Objects and Classes - Exercise\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.dll
+C:\Users\krust\source\repos\06. Objects and Classes - Exercise\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.pdb
+C:\Users\krust\source\repos\06. Objects and Classes - Exercise\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.genruntimeconfig.cache

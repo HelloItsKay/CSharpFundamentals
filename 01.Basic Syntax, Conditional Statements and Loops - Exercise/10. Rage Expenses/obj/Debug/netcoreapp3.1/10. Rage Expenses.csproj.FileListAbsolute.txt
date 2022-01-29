@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.exe
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.deps.json
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.json
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.dev.json
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfo.cs
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.genruntimeconfig.cache

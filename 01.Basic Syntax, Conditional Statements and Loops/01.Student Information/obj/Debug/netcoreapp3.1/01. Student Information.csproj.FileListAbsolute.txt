@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\01\bin\Debug\netcoreapp3.1\01. Student Information.exe
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\01\bin\Debug\netcoreapp3.1\01. Student Information.deps.json
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\01\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.json
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\01\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.dev.json
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\01\bin\Debug\netcoreapp3.1\01. Student Information.dll
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\01\bin\Debug\netcoreapp3.1\01. Student Information.pdb
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\01\obj\Debug\netcoreapp3.1\01. Student Information.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\01\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\01\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfo.cs
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\01\obj\Debug\netcoreapp3.1\01. Student Information.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\01\obj\Debug\netcoreapp3.1\01. Student Information.dll
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\01\obj\Debug\netcoreapp3.1\01. Student Information.pdb
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\01\obj\Debug\netcoreapp3.1\01. Student Information.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\C#Fundamentals\03.Arrays Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\C#Fundamentals\03.Arrays Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\C#Fundamentals\03.Arrays Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\krust\source\repos\C#Fundamentals\03.Arrays Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\C#Fundamentals\03.Arrays Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\krust\source\repos\C#Fundamentals\03.Arrays Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\krust\source\repos\C#Fundamentals\03.Arrays Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\krust\source\repos\C#Fundamentals\03.Arrays Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\krust\source\repos\C#Fundamentals\03.Arrays Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\krust\source\repos\C#Fundamentals\03.Arrays Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\krust\source\repos\C#Fundamentals\03.Arrays Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\krust\source\repos\C#Fundamentals\03.Arrays Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\krust\source\repos\C#Fundamentals\03.Arrays Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

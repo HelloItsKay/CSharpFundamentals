@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.exe
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.deps.json
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.runtimeconfig.json
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.runtimeconfig.dev.json
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.dll
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.pdb
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.AssemblyInfo.cs
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.dll
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.pdb
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.genruntimeconfig.cache

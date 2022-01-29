@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\08. Company Roster More Exercises -1\bin\Debug\netcoreapp3.1\08. Company Roster More Exercises -1.exe
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\08. Company Roster More Exercises -1\bin\Debug\netcoreapp3.1\08. Company Roster More Exercises -1.deps.json
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\08. Company Roster More Exercises -1\bin\Debug\netcoreapp3.1\08. Company Roster More Exercises -1.runtimeconfig.json
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\08. Company Roster More Exercises -1\bin\Debug\netcoreapp3.1\08. Company Roster More Exercises -1.runtimeconfig.dev.json
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\08. Company Roster More Exercises -1\bin\Debug\netcoreapp3.1\08. Company Roster More Exercises -1.dll
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\08. Company Roster More Exercises -1\bin\Debug\netcoreapp3.1\08. Company Roster More Exercises -1.pdb
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\08. Company Roster More Exercises -1\obj\Debug\netcoreapp3.1\08. Company Roster More Exercises -1.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\08. Company Roster More Exercises -1\obj\Debug\netcoreapp3.1\08. Company Roster More Exercises -1.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\08. Company Roster More Exercises -1\obj\Debug\netcoreapp3.1\08. Company Roster More Exercises -1.AssemblyInfo.cs
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\08. Company Roster More Exercises -1\obj\Debug\netcoreapp3.1\08. Company Roster More Exercises -1.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\08. Company Roster More Exercises -1\obj\Debug\netcoreapp3.1\08. Company Roster More Exercises -1.dll
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\08. Company Roster More Exercises -1\obj\Debug\netcoreapp3.1\08. Company Roster More Exercises -1.pdb
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\08. Company Roster More Exercises -1\obj\Debug\netcoreapp3.1\08. Company Roster More Exercises -1.genruntimeconfig.cache

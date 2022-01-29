@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\Vase\bin\Debug\netcoreapp3.1\Vase.exe
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\Vase\bin\Debug\netcoreapp3.1\Vase.deps.json
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\Vase\bin\Debug\netcoreapp3.1\Vase.runtimeconfig.json
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\Vase\bin\Debug\netcoreapp3.1\Vase.runtimeconfig.dev.json
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\Vase\bin\Debug\netcoreapp3.1\Vase.dll
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\Vase\bin\Debug\netcoreapp3.1\Vase.pdb
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\Vase\obj\Debug\netcoreapp3.1\Vase.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\Vase\obj\Debug\netcoreapp3.1\Vase.AssemblyInfo.cs
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\Vase\obj\Debug\netcoreapp3.1\Vase.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\Vase\obj\Debug\netcoreapp3.1\Vase.dll
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\Vase\obj\Debug\netcoreapp3.1\Vase.pdb
+C:\Users\krust\source\repos\07.Associative Arrays -Lab\Vase\obj\Debug\netcoreapp3.1\Vase.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\07.Order by age\bin\Debug\netcoreapp3.1\07.Order by age.exe
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\07.Order by age\bin\Debug\netcoreapp3.1\07.Order by age.deps.json
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\07.Order by age\bin\Debug\netcoreapp3.1\07.Order by age.runtimeconfig.json
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\07.Order by age\bin\Debug\netcoreapp3.1\07.Order by age.runtimeconfig.dev.json
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\07.Order by age\bin\Debug\netcoreapp3.1\07.Order by age.dll
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\07.Order by age\bin\Debug\netcoreapp3.1\07.Order by age.pdb
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\07.Order by age\obj\Debug\netcoreapp3.1\07.Order by age.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\07.Order by age\obj\Debug\netcoreapp3.1\07.Order by age.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\07.Order by age\obj\Debug\netcoreapp3.1\07.Order by age.AssemblyInfo.cs
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\07.Order by age\obj\Debug\netcoreapp3.1\07.Order by age.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\07.Order by age\obj\Debug\netcoreapp3.1\07.Order by age.dll
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\07.Order by age\obj\Debug\netcoreapp3.1\07.Order by age.pdb
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\07.Order by age\obj\Debug\netcoreapp3.1\07.Order by age.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\05. Lists - More Exercise\8. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.exe
+C:\Users\krust\source\repos\05. Lists - More Exercise\8. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.deps.json
+C:\Users\krust\source\repos\05. Lists - More Exercise\8. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.runtimeconfig.json
+C:\Users\krust\source\repos\05. Lists - More Exercise\8. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.runtimeconfig.dev.json
+C:\Users\krust\source\repos\05. Lists - More Exercise\8. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.dll
+C:\Users\krust\source\repos\05. Lists - More Exercise\8. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.pdb
+C:\Users\krust\source\repos\05. Lists - More Exercise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\05. Lists - More Exercise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\05. Lists - More Exercise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.AssemblyInfo.cs
+C:\Users\krust\source\repos\05. Lists - More Exercise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\05. Lists - More Exercise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.dll
+C:\Users\krust\source\repos\05. Lists - More Exercise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.pdb
+C:\Users\krust\source\repos\05. Lists - More Exercise\8. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.genruntimeconfig.cache

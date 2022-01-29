@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\05. Lists - More Exercise\7. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.exe
+C:\Users\krust\source\repos\05. Lists - More Exercise\7. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.deps.json
+C:\Users\krust\source\repos\05. Lists - More Exercise\7. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.json
+C:\Users\krust\source\repos\05. Lists - More Exercise\7. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.dev.json
+C:\Users\krust\source\repos\05. Lists - More Exercise\7. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.dll
+C:\Users\krust\source\repos\05. Lists - More Exercise\7. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.pdb
+C:\Users\krust\source\repos\05. Lists - More Exercise\7. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\05. Lists - More Exercise\7. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfo.cs
+C:\Users\krust\source\repos\05. Lists - More Exercise\7. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\05. Lists - More Exercise\7. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.dll
+C:\Users\krust\source\repos\05. Lists - More Exercise\7. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.pdb
+C:\Users\krust\source\repos\05. Lists - More Exercise\7. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.genruntimeconfig.cache

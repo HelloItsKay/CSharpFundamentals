@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.exe
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.deps.json
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.runtimeconfig.json
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.runtimeconfig.dev.json
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.dll
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.pdb
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.dll
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.pdb
+C:\Users\krust\source\repos\C#Fundamentals\01.Basic Syntax, Conditional Statements and Loops\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.genruntimeconfig.cache

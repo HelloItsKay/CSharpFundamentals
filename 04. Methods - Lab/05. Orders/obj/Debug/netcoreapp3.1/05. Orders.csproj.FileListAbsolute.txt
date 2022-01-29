@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\04. Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04. Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfo.cs
+C:\Users\krust\source\repos\04. Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04. Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.exe
+C:\Users\krust\source\repos\04. Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.deps.json
+C:\Users\krust\source\repos\04. Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.json
+C:\Users\krust\source\repos\04. Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04. Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\krust\source\repos\04. Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Users\krust\source\repos\04. Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\krust\source\repos\04. Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Users\krust\source\repos\04. Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.genruntimeconfig.cache

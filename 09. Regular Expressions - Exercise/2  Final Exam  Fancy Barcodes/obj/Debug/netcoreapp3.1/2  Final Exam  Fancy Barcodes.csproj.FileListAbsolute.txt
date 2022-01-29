@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\09. Regular Expressions - Exercise\2  Final Exam  Fancy Barcodes\bin\Debug\netcoreapp3.1\2  Final Exam  Fancy Barcodes.exe
+C:\Users\krust\source\repos\09. Regular Expressions - Exercise\2  Final Exam  Fancy Barcodes\bin\Debug\netcoreapp3.1\2  Final Exam  Fancy Barcodes.deps.json
+C:\Users\krust\source\repos\09. Regular Expressions - Exercise\2  Final Exam  Fancy Barcodes\bin\Debug\netcoreapp3.1\2  Final Exam  Fancy Barcodes.runtimeconfig.json
+C:\Users\krust\source\repos\09. Regular Expressions - Exercise\2  Final Exam  Fancy Barcodes\bin\Debug\netcoreapp3.1\2  Final Exam  Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\krust\source\repos\09. Regular Expressions - Exercise\2  Final Exam  Fancy Barcodes\bin\Debug\netcoreapp3.1\2  Final Exam  Fancy Barcodes.dll
+C:\Users\krust\source\repos\09. Regular Expressions - Exercise\2  Final Exam  Fancy Barcodes\bin\Debug\netcoreapp3.1\2  Final Exam  Fancy Barcodes.pdb
+C:\Users\krust\source\repos\09. Regular Expressions - Exercise\2  Final Exam  Fancy Barcodes\obj\Debug\netcoreapp3.1\2  Final Exam  Fancy Barcodes.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\09. Regular Expressions - Exercise\2  Final Exam  Fancy Barcodes\obj\Debug\netcoreapp3.1\2  Final Exam  Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\09. Regular Expressions - Exercise\2  Final Exam  Fancy Barcodes\obj\Debug\netcoreapp3.1\2  Final Exam  Fancy Barcodes.AssemblyInfo.cs
+C:\Users\krust\source\repos\09. Regular Expressions - Exercise\2  Final Exam  Fancy Barcodes\obj\Debug\netcoreapp3.1\2  Final Exam  Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\09. Regular Expressions - Exercise\2  Final Exam  Fancy Barcodes\obj\Debug\netcoreapp3.1\2  Final Exam  Fancy Barcodes.dll
+C:\Users\krust\source\repos\09. Regular Expressions - Exercise\2  Final Exam  Fancy Barcodes\obj\Debug\netcoreapp3.1\2  Final Exam  Fancy Barcodes.pdb
+C:\Users\krust\source\repos\09. Regular Expressions - Exercise\2  Final Exam  Fancy Barcodes\obj\Debug\netcoreapp3.1\2  Final Exam  Fancy Barcodes.genruntimeconfig.cache

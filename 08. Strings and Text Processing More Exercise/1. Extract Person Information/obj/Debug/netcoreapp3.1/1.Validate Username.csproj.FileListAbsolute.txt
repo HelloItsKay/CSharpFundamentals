@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1.Validate Username.exe
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1.Validate Username.deps.json
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1.Validate Username.runtimeconfig.json
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1.Validate Username.runtimeconfig.dev.json
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1.Validate Username.dll
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1.Validate Username.pdb
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1.Validate Username.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1.Validate Username.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1.Validate Username.AssemblyInfo.cs
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1.Validate Username.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1.Validate Username.dll
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1.Validate Username.pdb
+C:\Users\krust\source\repos\08. Strings and Text Processing More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1.Validate Username.genruntimeconfig.cache

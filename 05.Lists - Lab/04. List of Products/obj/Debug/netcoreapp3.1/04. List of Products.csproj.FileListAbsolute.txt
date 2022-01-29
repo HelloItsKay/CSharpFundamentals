@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\05.Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.exe
+C:\Users\krust\source\repos\05.Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.deps.json
+C:\Users\krust\source\repos\05.Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.json
+C:\Users\krust\source\repos\05.Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.dev.json
+C:\Users\krust\source\repos\05.Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.dll
+C:\Users\krust\source\repos\05.Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.pdb
+C:\Users\krust\source\repos\05.Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\05.Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\05.Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfo.cs
+C:\Users\krust\source\repos\05.Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\05.Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.dll
+C:\Users\krust\source\repos\05.Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.pdb
+C:\Users\krust\source\repos\05.Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.genruntimeconfig.cache

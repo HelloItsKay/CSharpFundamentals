@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\04. Methods - Exercise\1.1. Data Types\bin\Debug\netcoreapp3.1\12.01. Data Types.exe
+C:\Users\krust\source\repos\04. Methods - Exercise\1.1. Data Types\bin\Debug\netcoreapp3.1\12.01. Data Types.deps.json
+C:\Users\krust\source\repos\04. Methods - Exercise\1.1. Data Types\bin\Debug\netcoreapp3.1\12.01. Data Types.runtimeconfig.json
+C:\Users\krust\source\repos\04. Methods - Exercise\1.1. Data Types\bin\Debug\netcoreapp3.1\12.01. Data Types.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04. Methods - Exercise\1.1. Data Types\bin\Debug\netcoreapp3.1\12.01. Data Types.dll
+C:\Users\krust\source\repos\04. Methods - Exercise\1.1. Data Types\bin\Debug\netcoreapp3.1\12.01. Data Types.pdb
+C:\Users\krust\source\repos\04. Methods - Exercise\1.1. Data Types\obj\Debug\netcoreapp3.1\12.01. Data Types.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04. Methods - Exercise\1.1. Data Types\obj\Debug\netcoreapp3.1\12.01. Data Types.AssemblyInfo.cs
+C:\Users\krust\source\repos\04. Methods - Exercise\1.1. Data Types\obj\Debug\netcoreapp3.1\12.01. Data Types.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04. Methods - Exercise\1.1. Data Types\obj\Debug\netcoreapp3.1\12.01. Data Types.dll
+C:\Users\krust\source\repos\04. Methods - Exercise\1.1. Data Types\obj\Debug\netcoreapp3.1\12.01. Data Types.pdb
+C:\Users\krust\source\repos\04. Methods - Exercise\1.1. Data Types\obj\Debug\netcoreapp3.1\12.01. Data Types.genruntimeconfig.cache

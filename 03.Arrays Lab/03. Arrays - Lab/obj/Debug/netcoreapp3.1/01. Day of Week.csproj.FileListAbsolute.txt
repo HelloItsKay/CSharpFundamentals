@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\01. Day of Week\03. Arrays - Lab\bin\Debug\netcoreapp3.1\01. Day of Week.exe
+C:\Users\krust\source\repos\01. Day of Week\03. Arrays - Lab\bin\Debug\netcoreapp3.1\01. Day of Week.deps.json
+C:\Users\krust\source\repos\01. Day of Week\03. Arrays - Lab\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.json
+C:\Users\krust\source\repos\01. Day of Week\03. Arrays - Lab\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.dev.json
+C:\Users\krust\source\repos\01. Day of Week\03. Arrays - Lab\bin\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\Users\krust\source\repos\01. Day of Week\03. Arrays - Lab\bin\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\Users\krust\source\repos\01. Day of Week\03. Arrays - Lab\obj\Debug\netcoreapp3.1\01. Day of Week.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\01. Day of Week\03. Arrays - Lab\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\01. Day of Week\03. Arrays - Lab\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfo.cs
+C:\Users\krust\source\repos\01. Day of Week\03. Arrays - Lab\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\01. Day of Week\03. Arrays - Lab\obj\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\Users\krust\source\repos\01. Day of Week\03. Arrays - Lab\obj\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\Users\krust\source\repos\01. Day of Week\03. Arrays - Lab\obj\Debug\netcoreapp3.1\01. Day of Week.genruntimeconfig.cache

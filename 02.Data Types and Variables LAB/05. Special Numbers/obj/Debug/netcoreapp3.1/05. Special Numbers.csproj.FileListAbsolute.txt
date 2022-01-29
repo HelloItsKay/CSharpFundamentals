@@ -1,0 +1,25 @@
+C:\Users\krust\source\repos\02.Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.exe
+C:\Users\krust\source\repos\02.Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.deps.json
+C:\Users\krust\source\repos\02.Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.json
+C:\Users\krust\source\repos\02.Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.dev.json
+C:\Users\krust\source\repos\02.Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Users\krust\source\repos\02.Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.pdb
+C:\Users\krust\source\repos\02.Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\02.Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfo.cs
+C:\Users\krust\source\repos\02.Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\02.Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Users\krust\source\repos\02.Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.pdb
+C:\Users\krust\source\repos\02.Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.genruntimeconfig.cache
+C:\Users\krust\source\repos\C#Fundamentals\02.Data Types and Variables LAB\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.exe
+C:\Users\krust\source\repos\C#Fundamentals\02.Data Types and Variables LAB\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.deps.json
+C:\Users\krust\source\repos\C#Fundamentals\02.Data Types and Variables LAB\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.json
+C:\Users\krust\source\repos\C#Fundamentals\02.Data Types and Variables LAB\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.dev.json
+C:\Users\krust\source\repos\C#Fundamentals\02.Data Types and Variables LAB\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Users\krust\source\repos\C#Fundamentals\02.Data Types and Variables LAB\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.pdb
+C:\Users\krust\source\repos\C#Fundamentals\02.Data Types and Variables LAB\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\C#Fundamentals\02.Data Types and Variables LAB\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\C#Fundamentals\02.Data Types and Variables LAB\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfo.cs
+C:\Users\krust\source\repos\C#Fundamentals\02.Data Types and Variables LAB\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\C#Fundamentals\02.Data Types and Variables LAB\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Users\krust\source\repos\C#Fundamentals\02.Data Types and Variables LAB\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.pdb
+C:\Users\krust\source\repos\C#Fundamentals\02.Data Types and Variables LAB\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.genruntimeconfig.cache

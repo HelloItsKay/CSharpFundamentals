@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\02.  Mid Exam Array Modifier\bin\Debug\netcoreapp3.1\02.  Mid Exam Array Modifier.exe
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\02.  Mid Exam Array Modifier\bin\Debug\netcoreapp3.1\02.  Mid Exam Array Modifier.deps.json
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\02.  Mid Exam Array Modifier\bin\Debug\netcoreapp3.1\02.  Mid Exam Array Modifier.runtimeconfig.json
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\02.  Mid Exam Array Modifier\bin\Debug\netcoreapp3.1\02.  Mid Exam Array Modifier.runtimeconfig.dev.json
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\02.  Mid Exam Array Modifier\bin\Debug\netcoreapp3.1\02.  Mid Exam Array Modifier.dll
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\02.  Mid Exam Array Modifier\bin\Debug\netcoreapp3.1\02.  Mid Exam Array Modifier.pdb
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\02.  Mid Exam Array Modifier\obj\Debug\netcoreapp3.1\02.  Mid Exam Array Modifier.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\02.  Mid Exam Array Modifier\obj\Debug\netcoreapp3.1\02.  Mid Exam Array Modifier.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\02.  Mid Exam Array Modifier\obj\Debug\netcoreapp3.1\02.  Mid Exam Array Modifier.AssemblyInfo.cs
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\02.  Mid Exam Array Modifier\obj\Debug\netcoreapp3.1\02.  Mid Exam Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\02.  Mid Exam Array Modifier\obj\Debug\netcoreapp3.1\02.  Mid Exam Array Modifier.dll
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\02.  Mid Exam Array Modifier\obj\Debug\netcoreapp3.1\02.  Mid Exam Array Modifier.pdb
+C:\Users\krust\source\repos\06. Objects and Classes-Exercise\02.  Mid Exam Array Modifier\obj\Debug\netcoreapp3.1\02.  Mid Exam Array Modifier.genruntimeconfig.cache
